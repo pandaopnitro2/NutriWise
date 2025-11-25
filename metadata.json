@@ -1,0 +1,5 @@
+{
+  "name": "NutriWise",
+  "description": "A smart nutrition analyzer that provides detailed calorie and macronutrient breakdowns for any food item using Gemini AI.",
+  "requestFramePermissions": []
+}
